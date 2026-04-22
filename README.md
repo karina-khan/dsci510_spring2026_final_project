@@ -1,4 +1,4 @@
-# AI Sentiment in Women's Media
+# Sentiment Toward AI in Women's Media
 ### An analysis of long-form YouTube videos and comments centred around women, across the timeline of the AI boom.
 
 Studies show that women adopt AI at rates 25% lower than men. Call it the 
@@ -23,7 +23,7 @@ You will also need:
 - A cookies.txt file in the project root for yt-dlp authentication
 - Use .env.example as a template.
 
-How to Run the main pipeline
+How to run the main pipeline
 
 From the src/ directory:
 bash
