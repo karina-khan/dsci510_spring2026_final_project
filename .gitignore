@@ -1,5 +1,7 @@
 .env
+cookies.txt
 data/
 results/
+archive/
 __pycache__/
 .DS_Store
